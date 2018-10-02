@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     private static Socket socket;
     private static PrintWriter printwriter;
-    private static String ip = "192.168.43.73";//109";//IP do Computador na tentativa de conexão estabelecida
+    private static String ip = "192.168.43.238";//73";//IP do Computador na tentativa de conexão estabelecida
     private static int porta = 1856;//Porta do Computador na tentativa de conexão estabelecida
     String message = "";
     String time = "";
